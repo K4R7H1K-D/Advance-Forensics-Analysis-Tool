@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><a href="https://www.aperisolve.com"><img src="![image](https://github.com/user-attachments/assets/7f04cc1f-d9db-480d-ade4-107060788d25)
+<p <img src="![image](https://github.com/user-attachments/assets/7f04cc1f-d9db-480d-ade4-107060788d25)
 "/></a></p>
 
 <b>Try it now: https://www.aperisolve.com</b>
